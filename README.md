@@ -1,4 +1,4 @@
-# Athena Hawkins' ICJ Bootstrap Template
+# Athena's ICJ Bootstrap Template
 
 This template goes along with the [Bootstrap lessons](https://utdata.github.io/icj-class/bs-00-intro.html) for Intro to Coding for Journalists. I'm Athena and I'm using this template because I'm taking this class. This assignment is due October 13, 2023.
 
