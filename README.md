@@ -1,10 +1,10 @@
-# ICJ Bootstrap Template
+# Athena Hawkins' ICJ Bootstrap Template
 
-This template goes along with the [Bootstrap lessons](https://utdata.github.io/icj-class/bs-00-intro.html) for Intro to Coding for Journalists.
+This template goes along with the [Bootstrap lessons](https://utdata.github.io/icj-class/bs-00-intro.html) for Intro to Coding for Journalists. I'm Athena and I'm using this template because I'm taking this class. This assignment is due October 13, 2023.
 
 It uses Bootstrap 5 and a Gulp setup to support a development environment with Sass and image management.
 
-## How to set up your project
+## How to set up this project
 
 - Create a new folder in your `icj/` folder called `yourname-bootstrap`.
 - In VS Code, open a new window and open your new folder.
